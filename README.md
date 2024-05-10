@@ -2,8 +2,8 @@
 Proyecto realizado para la materia de Base de Datos,donde se hace la base de datos relacional para una empresa fumigadora con ayuda de OracleSQL, haciendo uso de PL/SQL
 
 Autores: 
-- Jimenez Garcia Rodrigo Gaudencio
-- Romero Pedraza Francesca Melania 
+- Jimenez Garcia Rodrigo Gaudencio @RGJG28
+- Romero Pedraza Francesca Melania @melaniaromero
 - Santiago Perez Daniela
 - Cuella Uribe Fernando
 
