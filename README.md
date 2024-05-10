@@ -34,8 +34,8 @@ La empresa fumigadora Fumicity requiere un sistema para gestionar información s
   identifican por número y tipo.
 
 ## Solución propuesta
-# Modelo entidad-relación
+### Modelo entidad-relación
 ![Modelo entidad-relación](https://github.com/RGJG28/BD_Fumigadora/blob/main/src/BD_proyecto_fumigadora_MER.png)
-# Modelo relacional
+### Modelo relacional
 ![Modelo relacional](https://github.com/RGJG28/BD_Fumigadora/blob/main/src/Proyecto_fumigadora_ET.jpg)
 
