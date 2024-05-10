@@ -2,10 +2,10 @@
 Proyecto realizado para la materia de Base de Datos,donde se hace la base de datos relacional para una empresa fumigadora con ayuda de OracleSQL, haciendo uso de PL/SQL
 
 Autores: 
-- JIMENEZ GARCIA RODRIGO GAUDENCIO
-- ROMERO PEDRAZA FRANCESCA MELANIA
-- SANTIAGO PEREZ DANIELA
-- CUELLAR URIBE FERNANDO.
+- Jimenez Garcia Rodrigo Gaudencio
+- Romero Pedraza Francesca Melania 
+- Santiago Perez Daniela
+- Cuella Uribe Fernando
 
 ## Instalación de dependencias
 No se requiere la instalacion previa de ningun libreria adicional, basta con tener un sistema linux con oracle 19C configurado.
@@ -34,6 +34,8 @@ La empresa fumigadora Fumicity requiere un sistema para gestionar información s
   identifican por número y tipo.
 
 ## Solución propuesta
+# Modelo entidad-relación
 ![Modelo entidad-relación](https://github.com/RGJG28/BD_Fumigadora/blob/main/src/BD_proyecto_fumigadora_MER.png)
+# Modelo relacional
 ![Modelo relacional](https://github.com/RGJG28/BD_Fumigadora/blob/main/src/Proyecto_fumigadora_ET.jpg)
 
